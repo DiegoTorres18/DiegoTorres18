@@ -14,14 +14,7 @@ Soy un estudiante universitario de 19 años apasionado por la programación y el
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🚀 Mis proyectos
-Aquí algunos de los proyectos en los que he trabajado:
-- [Nombre del Proyecto 1](enlace al repositorio) - Breve descripción
-- [Nombre del Proyecto 2](enlace al repositorio) - Breve descripción
-- [Nombre del Proyecto 3](enlace al repositorio) - Breve descripción
+Aquí algunos de los proyectos en los que he trabajados son lo que se encuentra en mi repositorio
 
-## 📫 Contacto
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tunombre/)
-- Correo: tu@email.com
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología!
